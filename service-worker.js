@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/globexit-task/precache-manifest.b08250f614c9aa6a7a552fc3b9514dc1.js"
+  "/globexit-task/precache-manifest.9c9803747928bd0467408d7c81b4a5fc.js"
 );
 
 self.addEventListener('message', (event) => {
