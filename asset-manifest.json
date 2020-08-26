@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/globexit_task/static/css/main.bfa84738.chunk.css",
+    "main.js": "/globexit_task/static/js/main.971b56e1.chunk.js",
+    "main.js.map": "/globexit_task/static/js/main.971b56e1.chunk.js.map",
+    "runtime-main.js": "/globexit_task/static/js/runtime-main.8ddf4528.js",
+    "runtime-main.js.map": "/globexit_task/static/js/runtime-main.8ddf4528.js.map",
+    "static/js/2.a9c1b0a0.chunk.js": "/globexit_task/static/js/2.a9c1b0a0.chunk.js",
+    "static/js/2.a9c1b0a0.chunk.js.map": "/globexit_task/static/js/2.a9c1b0a0.chunk.js.map",
+    "index.html": "/globexit_task/index.html",
+    "precache-manifest.0324f264788ceff31ade94faf179d6f4.js": "/globexit_task/precache-manifest.0324f264788ceff31ade94faf179d6f4.js",
+    "service-worker.js": "/globexit_task/service-worker.js",
+    "static/css/main.bfa84738.chunk.css.map": "/globexit_task/static/css/main.bfa84738.chunk.css.map",
+    "static/js/2.a9c1b0a0.chunk.js.LICENSE.txt": "/globexit_task/static/js/2.a9c1b0a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ddf4528.js",
+    "static/js/2.a9c1b0a0.chunk.js",
+    "static/css/main.bfa84738.chunk.css",
+    "static/js/main.971b56e1.chunk.js"
+  ]
+}
