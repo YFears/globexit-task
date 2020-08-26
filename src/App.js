@@ -5,12 +5,11 @@ import { Input, TextField } from '@material-ui/core';
 
 function App() {
 
-  const [data, setData] = useState([
+  const data  = [
     [1, 2, 3, 4],
     [5, 6, 7, 8],
     [9, 10, 11, 12]
-  ]
-  )
+  ];  
 
   function Table({ data, color, value, fillCells, draw }) {
 
